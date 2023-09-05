@@ -12,32 +12,26 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js";
 
 global.owner = [
 ["5493491456806", 'Owner ', true],
-["3726188894", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], 
-["5492266466080"], 
-["593968585383"], 
-["5492266613038"],
-["595975740803"], 
-["51906662557"],
-["5217294888993"]]
+["3726188894", 'Bot', true]]
 
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 
 global.mods = [];
-global.prems = ["528451003894"];
+global.prems = ["5493491456806"];
 //key de violetics
 global.Key360 = ["964f-0c75-7afc"];
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
-//Agrega el Idioma que quieres que tenga GataBot-MD
-//Add the language you want GataBot-MD to have
+//Agrega el Idioma que quieres que tenga Fast-Bot
+//Add the language you want Fast-Bot to have
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب             hi = Hindi Language
 
-global.lenguajeGB = es; //Idioma de GataBot, Ejemplo: es | en | pt...
+global.lenguajeGB = es; //Idioma de Fast-Bot, Ejemplo: es | en | pt...
 
-//━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━━━━━━━━━━ 
 
 global.openai_key = "sk-...OzYy2";
 /* Consigue tu ApiKey en este enlace: https://platform.openai.com/account/api-keys */
@@ -97,19 +91,15 @@ global.moment = moment;
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["18059196237", 'Gata Dios 💻', 1], 
-["5492266466080", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-["59894808483", '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-["5521989092076", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-["5491173694367", 'Prueba', 1]];
+["5493491456806", 'Owner', 1]];
 
 global.mail = ''; //agrega tú correo
 global.desc = ''; //agrega una descripción corta
 global.desc2 = ''; //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = ''; //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈";
-global.author = "𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨";
+global.packname = "𝙁𝙖𝙨𝙩-𝘽𝙤𝙩";
+global.author = "𝙁𝙖𝙨𝙩-𝘽𝙤𝙩";
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
