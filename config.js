@@ -95,40 +95,29 @@ global.official = [ // Agregate si eres Owner
 
 global.mail = ''; //agrega tú correo
 global.desc = ''; //agrega una descripción corta
-global.desc2 = ''; //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
+global.desc2 = ''; //agrega una descripción larga (Solo se aplicará si su whatsapp no tiene descripción)
 global.country = ''; //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "𝙁𝙖𝙨𝙩-𝘽𝙤𝙩";
-global.author = "𝙁𝙖𝙨𝙩-𝘽𝙤𝙩";
+global.packname = "𝗙𝗮𝘀𝘁";
+global.author = "𝗕𝗼𝘁";
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = "1.4.9";
 global.vsJB = "2.0";
 
-global.gt = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿";
-global.yt = "https://youtube.com/@gatadios";
-global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s";
-global.ig = "https://www.instagram.com/gata_dios";
-global.md = "https://github.com/GataNina-Li/GataBot-MD";
+global.ft = "𝗙𝗮𝘀𝘁-𝗕𝗼𝘁";
+global.yt = "";
+global.yt2 = "";
+global.ig = "https://www.instagram.com/gabiacosta06";
+global.md = "https://github.com/gabicota16/Fast-Bot";
 global.fb = "https://www.facebook.com/groups/872989990425789/";
 
-global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
-global.nn2 = 'https://chat.whatsapp.com/I514IYZiwlGEQuoUj32DLU' //UPDATE 2
-global.nna2 = 'https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76' //Help
-global.nn = 'https://chat.whatsapp.com/GR5RCg9xc0j3Cvdr9spavw' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/KyFCCERSthIK2ubFyNdowG' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/DkSiArB76fQ2gasaXbsTpB' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/KarvKzAKHMcJAtStYqTY5y' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/HpFEE22gczpHwDoRIAACC6' //Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/IyQcDZqfTkLG46ph8w1AHy' //Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/EjiaKJWvzaiAmvktpScgEc' //Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/JzgB9VgPdQWIkIXiuAiecc' //Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/J8HOf2T3QYeKu3UN9UBkT6' //Grupo 9 COL
-global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/50660400020' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/DLXsU7DzkfHH487wYWKhWw' 
+global.paypal = 'no hay paypal'
+global.asistencia = 'instagram.com/gabiacosta06' //Dudas? escríbeme...
 
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
@@ -155,13 +144,13 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg;
 
 //𝙀𝙅𝙀𝙈𝙋𝙇𝙊 | 𝙀𝙓𝘼𝙈𝙋𝙇𝙀
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨";
-global.igfg = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿";
+global.wm = "𝗙𝗮𝘀𝘁 - 𝗕𝗼𝘁";
+global.igfg = "𝗙𝗮𝘀𝘁 - 𝗕𝗼𝘁";
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*";
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*";
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*";
@@ -169,7 +158,7 @@ global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*";
 global.nomorown = "593993684821";
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"];
 
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 
 
 //⊱ ━━━━━.⋅ IMG ⋅.━━━━ ⊰
@@ -188,7 +177,7 @@ global.imagen11 = fs.readFileSync("./media/menus/img10.jpg");
 global.imagen12 = fs.readFileSync("./media/menus/img11.jpg");
 global.imagen13 = fs.readFileSync("./media/menus/img12.jpg");
 
-//━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━━━━━━━━━━ 
 
 
 //━━━━━━━━━━━━━━ img ━━━━━━━━━
@@ -219,13 +208,13 @@ global.img18 = 'https://i.imgur.com/9yLH4W4.jpeg';
 
 global.logogit = 'https://tinyurl.com/2qvl9vgs';
 
-global.welgata = [ig, yt2, yt2, ig, md, ig, yt, paypal, yt2, yt2, ig, fb];
-global.redesMenu = [nna, nn, nnn, nnnt, nnntt, nnnttt, nnnttt1, nnnttt2, nnnttt3, nnnttt4, md, ig, paypal, yt, asistencia, fb];
-global.gataMenu = [img, img2, img6, img7, img8, img9, img13, img14, img15, img17, img18];
-global.gataVidMenu = ['./media/menus/Menuvid1.mp4', './media/menus/Menuvid2.mp4', './media/menus/Menuvid3.mp4'];
-global.gataImg = [imagen1, imagen2, imagen3, imagen4, imagen5, imagen6, imagen7, imagen8, imagen9, imagen10, imagen11, imagen12, imagen13];
+global.welfast = [ig, yt2, yt2, ig, md, ig, yt, paypal, yt2, yt2, ig, fb];
+global.redesMenu = [nna, md, ig, paypal, yt, asistencia, fb];
+global.fastMenu = [img, img2, img6, img7, img8, img9, img13, img14, img15, img17, img18];
+global.fastVidMenu = ['./media/menus/Menuvid1.mp4', './media/menus/Menuvid2.mp4', './media/menus/Menuvid3.mp4'];
+global.fastImg = [imagen1, imagen2, imagen3, imagen4, imagen5, imagen6, imagen7, imagen8, imagen9, imagen10, imagen11, imagen12, imagen13];
 
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 
 
 //⊱ ━━━━━.⋅ RPG ⋅.━━━━ ⊰
@@ -271,7 +260,7 @@ global.fgif = {
                               }
                              };
 
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
 
 
 global.multiplier = 60; // Cuanto más alto, más difícil subir de nivel | The higher, The harder levelup 
@@ -352,7 +341,7 @@ global.rpg = {
       kambing: '🐐 Cabra : Goat',
       kerbau: '🐃 Búfalo : Buffalo',
       lion: '🦁 León : Lion',
-      money: lenguajeGB.eGataCoins(),
+      money: lenguajeGB.eFastCoins(),
       monyet: '🐒 Mono : Monkey',
       panda: '🐼 Panda',
       snake: '🐍 Serpiente : Snake',
@@ -416,7 +405,7 @@ global.rpgshop = { //Tienda
     let emottt = {
       exp: lenguajeGB.eExp(), limit: lenguajeGB.eDiamante(), diamond: lenguajeGB.eDiamantePlus(), joincount: lenguajeGB.eToken(),
       emerald: lenguajeGB.eEsmeralda(), berlian: lenguajeGB.eJoya(), kyubi: lenguajeGB.eMagia(), gold: lenguajeGB.eOro(),
-      money: lenguajeGB.eGataCoins(), tiketcoin: lenguajeGB.eGataTickers(), stamina: lenguajeGB.eEnergia(),
+      money: lenguajeGB.eFastCoins(), tiketcoin: lenguajeGB.eFastTickers(), stamina: lenguajeGB.eEnergia(),
             
       potion: lenguajeGB.ePocion(), aqua: lenguajeGB.eAgua(), trash: lenguajeGB.eBasura(), wood: lenguajeGB.eMadera(),
       rock: lenguajeGB.eRoca(), batu: lenguajeGB.ePiedra(), string: lenguajeGB.eCuerda(), iron: lenguajeGB.eHierro(),
