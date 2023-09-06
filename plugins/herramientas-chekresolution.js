@@ -21,7 +21,7 @@ import jimp from "jimp"
  > Altura : ${height} 
  > Link: ${link}`) 
  } 
- handler.help = ['cekresolution <reply | caption>', 'cekreso <reply | caption>'] 
+ handler.help = ['chekresolution <reply | caption>', 'cekreso <reply | caption>'] 
  handler.tags = ['tool'] 
  handler.command = /^(cekreso(lution)?)$/i 
   
