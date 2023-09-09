@@ -13,15 +13,15 @@
  let money = fastcoins 
  let pjk = Math.ceil(fastcoins * pajak) 
  money -= pjk 
- if (money < 1) throw `${mg}𝙀𝙇 𝙉𝙐𝙈𝙀𝙍𝙊 𝙈𝙄𝙉𝙄𝙈𝙊 𝘿𝙀 𝙂𝘼𝙏𝘼𝘾𝙊𝙄𝙉𝙎 𝙀𝙎 *1*\n\n𝙏𝙃𝙀 𝙈𝙄𝙉𝙄𝙈𝙐𝙈 𝙉𝙐𝙈𝘽𝙀𝙍 𝙁𝙍𝙊𝙈 𝙂𝘼𝙏𝘼𝘾𝙊𝙄𝙉𝙎 𝙄𝙎 *1*` 
+ if (money < 1) throw `${mg}𝙀𝙇 𝙉𝙐𝙈𝙀𝙍𝙊 𝙈𝙄𝙉𝙄𝙈𝙊 𝘿𝙀 𝙁𝘼𝙎𝙏𝘾𝙊𝙄𝙉𝙎 𝙀𝙎 *1*\n\n𝙏𝙃𝙀 𝙈𝙄𝙉𝙄𝙈𝙐𝙈 𝙉𝙐𝙈𝘽𝙀𝙍 𝙁𝙍𝙊𝙈 𝙁𝘼𝙎𝙏𝘾𝙊𝙄𝙉𝙎 𝙄𝙎 *1*` 
  let users = global.db.data.users 
  users[who].money -= fastcoins 
- m.reply(`╭━━━[ 𝙂𝘼𝙏𝘼𝘾𝙊𝙄𝙉𝙎 🐈 ]━━━⬣\n┃\n┃ღ *PARA | FOR:*\n┃ღ *${text}*\n┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n┃ღ *SE ELIMINÓ | WAS REMOVED*\n┃ღ *${fastcoins} FastCoin(s)*\n┃\n╰━━━━━━━━━━━━━━⬣`)} 
- /*conn.sendHydrated(m.chat, `╭━━━[ 𝙂𝘼𝙏𝘼𝘾𝙊𝙄𝙉𝙎 ]━━━⬣\n┃\n┃ღ *PARA | FOR:*\n┃ღ *${text}*\n┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n┃ღ *SE ELIMINÓ | WAS REMOVED*\n┃ღ *${fastcoins} FastCoin(s)* 🐈\n┃\n╰━━━━━━━━━━━━━━⬣`, wm, null, md, '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿', null, null, [ 
+ m.reply(`╭━━━[ 𝙁𝘼𝙎𝙏𝘾𝙊𝙄𝙉𝙎 ]━━━⬣\n┃\n┃ღ *PARA | FOR:*\n┃ღ *${text}*\n┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n┃ღ *SE ELIMINÓ | WAS REMOVED*\n┃ღ *${fastcoins} FastCoin(s)*\n┃\n╰━━━━━━━━━━━━━━⬣`)} 
+ /*conn.sendHydrated(m.chat, `╭━━━[ 𝙁𝘼𝙎𝙏𝘾𝙊𝙄𝙉𝙎 ]━━━⬣\n┃\n┃ღ *PARA | FOR:*\n┃ღ *${text}*\n┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n┃ღ *SE ELIMINÓ | WAS REMOVED*\n┃ღ *${fastcoins} FastCoin(s)*\n┃\n╰━━━━━━━━━━━━━━⬣`, wm, null, md, '𝗙𝗮𝘀𝘁-𝗕𝗼𝘁', null, null, [ 
  ['💗 𝙈𝙚𝙣𝙪 𝘼𝙫𝙚𝙣𝙩𝙪𝙧𝙖 | 𝙍𝙋𝙂 💗', '.rpgmenu'], 
  ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪 ☘️', '/menu']], m) 
  }*/ 
- handler.help = ['addgb <@user>'] 
+ handler.help = ['addfb <@user>'] 
  handler.tags = ['fastcoins'] 
  handler.command = ['eliminarfastcoins', 'eliminarfast', 'eliminarcoins', 'quitarfastcoins', 'quitarfast', 'quitarcoins', 'delfastcoins', 'delfast', 'delcoins']  
  handler.group = true 
