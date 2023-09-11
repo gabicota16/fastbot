@@ -624,7 +624,7 @@ const fkontak = {
 	},
 	"participant": "0@s.whatsapp.net"
 }
-conn.sendFile(m.chat, imgr, 'fast.jpg', caption, fkontak, m, { mentions: conn.parseMention(caption) })
+conn.sendFile(m.chat, imgr, 'gata.jpg', caption, fkontak, m, { mentions: conn.parseMention(caption) })
 //await conn.sendButton(m.chat, `*𝗣𝗥𝗘𝗠𝗜𝗨𝗠 ${user.premium ? "✅": "❌"}*\n${wm}`, caption, imgr + 'Inventario : Inventory', [[`⚜️ 𝙇𝙞𝙨𝙩𝙖 𝙙𝙚 𝙈𝙞𝙨𝙞𝙤𝙣𝙚𝙨 | 𝙈𝙞𝙨𝙨𝙞𝙤𝙣𝙨`, `${usedPrefix}inventario 3`],	[`🏕️ 𝘼𝙫𝙚𝙣𝙩𝙪𝙧𝙖𝙧 | 𝙑𝙚𝙣𝙩𝙪𝙧𝙚`, `${usedPrefix}adventure`],['💗 𝙈𝙚𝙣𝙪 𝘼𝙫𝙚𝙣𝙩𝙪𝙧𝙖 | 𝙍𝙋𝙂', '.rpgmenu']], fkontak, m, { mentions: conn.parseMention(caption) })
 	
 } else if (args[0] == '4') { // Inventario 3
@@ -1246,7 +1246,7 @@ const fkontak = {
 	"participant": "0@s.whatsapp.net"
 }
 // let ftroli = { key: {participant : '0@s.whatsapp.net'}, message: { orderMessage: { itemCount: 2022, status: 1, surface: 1, message: bottime, orderTitle: wm, sellerJid: '0@s.whatsapp.net' } } }   
-conn.sendFile(m.chat, imgr, 'fast.jpg', str, {quoted: fkontak})
+conn.sendFile(m.chat, imgr, 'gata.jpg', str, {quoted: fkontak})
 //await conn.sendButton(m.chat, `*𝗣𝗥𝗘𝗠𝗜𝗨𝗠 ${user.premium ? "✅": "❌"}*\n${wm}`, str, imgr + 'Inventario : Inventory', [[`${healt < 40 ? '❤️ 𝘾𝙐𝙍𝘼𝙍𝙈𝙀 | 𝙃𝙀𝘼𝙇 𝙈𝙀' : '𝘼𝙫𝙚𝙣𝙩𝙪𝙧𝙖𝙧 | 𝙑𝙚𝙣𝙩𝙪𝙧𝙚 🏕️'}`, `${healt < 40 ? '.heal' : '.adventure'}`],['🏪 𝙏𝙞𝙚𝙣𝙙𝙖 𝙥𝙖𝙧𝙖 𝘾𝙤𝙢𝙥𝙧𝙖𝙧 | 𝘽𝙪𝙮', '.buy'],['🏪 𝙏𝙞𝙚𝙣𝙙𝙖 𝙥𝙖𝙧𝙖 𝙑𝙚𝙣𝙙𝙚𝙧 | 𝙎𝙚𝙡𝙡', '.sell']], m, {quoted: fkontak})
 
 } else if (args[0] == '3') { // Inventario 4
@@ -1433,7 +1433,7 @@ const fkontak = {
 	"participant": "0@s.whatsapp.net"
 } 
 
-conn.sendFile(m.chat, imgr, 'fast.jpg', str, fkontak, m, { mentions: conn.parseMention(str) })
+conn.sendFile(m.chat, imgr, 'gata.jpg', str, fkontak, m, { mentions: conn.parseMention(str) })
 //await conn.sendButton(m.chat, `*𝗣𝗥𝗘𝗠𝗜𝗨𝗠 ${user.premium ? "✅": "❌"}*\n${wm}`, str, imgr + 'Inventario : Inventory', [     [`🍱 𝙄𝙣𝙫𝙚𝙣𝙩𝙖𝙧𝙞𝙤 𝙙𝙚 𝘼𝙡𝙞𝙢𝙚𝙣𝙩𝙤𝙨 `, `${usedPrefix}alimentos`],[`🎒 𝙄𝙣𝙫𝙚𝙣𝙩𝙖𝙧𝙞𝙤 𝙩𝙤𝙩𝙖𝙡`, `${usedPrefix}inventario 4`],	['💗 𝙈𝙚𝙣𝙪 𝘼𝙫𝙚𝙣𝙩𝙪𝙧𝙖 | 𝙍𝙋𝙂', '.rpgmenu']], fkontak, m, { mentions: conn.parseMention(str) })
 	
     } else if (command == 'alimentos') { // Inventario piscina
@@ -1608,7 +1608,7 @@ const fkontak = {
 	},
 	"participant": "0@s.whatsapp.net"
 }
-conn.sendFile(m.chat, imgr, 'fast.jpg', aineh, fkontak, m)}
+conn.sendFile(m.chat, imgr, 'gata.jpg', aineh, fkontak, m)}
 //await conn.sendButton(m.chat, `*𝗣𝗥𝗘𝗠𝗜𝗨𝗠 ${user.premium ? "✅": "❌"}*\n${wm}`, aineh, imgr + 'Inventario : Inventory', [[`🐈 𝙄𝙣𝙫𝙚𝙣𝙩𝙖𝙧𝙞𝙤 𝙙𝙚 𝘼𝙣𝙞𝙢𝙖𝙡𝙚𝙨`, `${usedPrefix}animales`],[`🎒 𝙄𝙣𝙫𝙚𝙣𝙩𝙖𝙧𝙞𝙤 𝙩𝙤𝙩𝙖𝙡`, `${usedPrefix}inventario 4`],['𝙈𝙚𝙣𝙪 𝘼𝙫𝙚𝙣𝙩𝙪𝙧𝙖 | 𝙍𝙋𝙂 💗', '.rpgmenu']], fkontak, m)}
 }
 handler.help = ['inventory', 'inv']
