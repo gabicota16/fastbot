@@ -444,7 +444,7 @@ global.rpgshopp = { //Tienda
     string = string.toLowerCase();
     let emotttt = {
       exp: '⚡', limit: '💎', diamond: '💎+', joincount: '🪙',
-      emerald: '💚', berlian: '♦️', kyubi: '🌀', gold: '👑',
+      emerald: '💚', berlian: '📿', kyubi: '🌀', gold: '👑',
       money: '♦️', tiketcoin: '🎫', stamina: '✨',
             
       potion: '🥤', aqua: '💧', trash: '🗑', wood: '🪵',
