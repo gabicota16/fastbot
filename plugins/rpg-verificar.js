@@ -182,8 +182,8 @@ if (typeof edad === 'string') fg + '*NO PUEDE CAMBIAR DE EDAD*\n\n_Una vez selec
 if (verificar.test(text.slice(1)) == false && !text) return conn.sendMessage(m.chat, {text: iig + `*👉PERSONALICE SU EDAD PARA REGISTRAR, EJEMPLO:*\n` + usedPrefix + command + 35 + `*Sabía que puede seleccionar su edad?*\n➘ _En ese caso use el siguiente comando_\n🔢 REGISTRAR MI EDAD\n${usedPrefix + command}edad`}, {quoted: fkontak})
 //conn.sendButton(m.chat, iig + '👉 *PERSONALICE SU EDAD PARA REGISTRAR, EJEMPLO:*\n' + usedPrefix + command + ' ' + '35', '*Sabía que puede seleccionar su edad?*\n➘ _En ese caso use el Botón de abajo_', null, [[`🔢 REGISTRAR MI EDAD`, usedPrefix + 'edad']], m)
 if (isNaN(text)) throw fg + '*INGRESE SOLO NÚMEROS*'
-if (text < 50) throw fg + '*DEMASIADO MAYOR PARA SER REGISTRADO*'
-if (text > 10) throw fg + '*DEMASIADO MENOR PARA SER REGISTRADO*'
+if (text > 50) throw fg + '*DEMASIADO MAYOR PARA SER REGISTRADO*'
+if (text < 10) throw fg + '*DEMASIADO MENOR PARA SER REGISTRADO*'
 edad = text.replace(/[.,\/#!$%\^&\*;:{}@=\-_`~()\s\a-z]/gi, "")
 user.age = edad
 if (verificar.test(text) == true) return conn.sendMessage(m.chat, {text: eg + `*GENIAL!! SE HA COMPLETADO LO SIGUIENTE*\n*- - - - - - - - - - - - - - - - - - - - - - - - - - - -*\n\n*❖ NOMBRE:*\n${nombre === 0 ? 'No encontrada' : nombre}\n❖ EDAD:*\n${edad === 0 ? 'No encontrada' : edad + ' años'}\n\n🧬 AHORA REGISTRAR MI GÉNERO\n${usedPrefix}genero`}, {quoted: fkontak})
