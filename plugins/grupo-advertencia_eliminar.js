@@ -26,7 +26,7 @@ let handler = async (m, { conn, text, command, usedPrefix }) => {//prems
  }} 
  handler.help = ['addprem <@user>'] 
  handler.tags = ['owner'] 
- handler.command = /^(del|delete|eliminar|\-)advertir|quitar|warn(ing)?$/i 
+ handler.command = /^(del|delete|eliminar|\-)advertir|quitar|unwarn(ing)?$/i 
  handler.group = true 
  handler.admin = true 
  handler.botAdmin = true 
