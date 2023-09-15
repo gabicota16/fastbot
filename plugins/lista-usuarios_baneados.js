@@ -6,7 +6,7 @@ let handler = async (m, { conn, isOwner }) => {
  │ 
  │ *${i + 1}.* ${conn.getName(jid) == undefined ? 'Sin Usuarios Baneados' : conn.getName(jid)} 
  │ ${isOwner ? '@' + jid.split`@`[0] : jid}\n│ - - - - - - - - -`.trim()).join('\n') : ''} 
- │ *Estos usuarios no puedes Usar a GataBot* 
+ │ *Estos usuarios no puedes Usar a FastBot* 
  *╰•·–––––––––––––––––––·•*`.trim() 
   
  await conn.reply(m.chat, caption, m, { mentions: await conn.parseMention(caption) })} 
