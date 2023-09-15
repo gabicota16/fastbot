@@ -4,7 +4,7 @@ import fetch from 'node-fetch'
  let res = await axios("https://meme-api.herokuapp.com/gimme/Itzy") 
  let json = res.data 
  let gata = json.url 
- conn.sendFile(m.chat, gata, 'error.jpg', `_${command}_`, m) 
+ conn.sendFile(m.chat, fast, 'error.jpg', `_${command}_`, m) 
  //conn.sendButton(m.chat, `_${command}_`, wm, gata, [['𝙎𝙄𝙂𝙐𝙄𝙀𝙉𝙏𝙀 | 𝙉𝙀𝙓𝙏 🆕', `/${command}`]], m) 
  } 
  handler.help = ['itzy','kpopitzy'] 
