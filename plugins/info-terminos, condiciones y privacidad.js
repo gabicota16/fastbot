@@ -67,12 +67,12 @@ import { xpRange } from '../lib/levelling.js'
  //let user = global.db.data.users[m.sender] 
  //user.registered = false 
   
- let Terminos = `*_Toda la informacion que se mencione aqui no excluye a la Propietaria del Bot, y Propietarios Acredores al uso de FastBot_* 
+ let Terminos = `*_Toda la informacion que se mencione aqui no excluye a el Propietario del Bot, y Propietarios Acredores al uso de FastBot_* 
  *_No Somos responsables del desconocimiento que tenga por parte de esta informacion._*  
   
   
  *TERMINOS DE PRIVACIDAD* 
- _- Somos consciente del constante uso que le pueda dar al Bot, y tambien Garantizamos que la informaciin como (imagenes, videos, enlaces, ubicacion, Audios, Stickers, Gif, Contactos que Usted Proporcione en torno a Numero(s) Oficial(es) No son ni seran Compartido Con Nadie, ni se usaran dicho Datos fuera del entorno del BOT._ 
+ _- Somos consciente del constante uso que le pueda dar al Bot, y tambien Garantizamos que la información como (imagenes, videos, enlaces, ubicacion, Audios, Stickers, Gif, Contactos que Usted Proporcione en torno a Numero(s) Oficial(es) No son ni seran Compartido Con Nadie, ni se usaran dicho Datos fuera del entorno del BOT._ 
   
  _- Lo que realice con el BOT queda solo en Usted ya que en Numero(s) Oficial(es) El Chat se Borra cada 24 Horas, segun el tiempo de Mensajes Temporales de WhatsApp._ 
   
@@ -118,11 +118,7 @@ import { xpRange } from '../lib/levelling.js'
  ~ _Solo en esta Cuenta Respondo si tiene Dudas, Preguntas o Necesita Ayuda sobre FastBot, Tambien puede Comunicarse en Caso de Temas de Colaboracion_ 
  *${ig}* 
   
- *DONAR A LA CREADORA EN ESTA CUENTA OFICIAL* 
- ~ _Si te Agrada y valoras el Trabajo que he realizado, puedes ayudarme en Donar para que pueda continuar en este Proyecto_ 
- *https://paypal.me/OficialGD* 
-  
- *~ Muchas Gracias Por tomarte el tiempo en informate sobre FastBot*`  
+   *~ Muchas Gracias Por tomarte el tiempo en informate sobre FastBot*`  
  await conn.sendFile(m.chat, pp, 'fast.mp4', Terminos) 
  /*.trim() 
  conn.sendHydrated(m.chat, Terminos,  `${wm}\nEstamos de acuerdo en Hacer Colaboraciones con Personas Comprometidas, manteniendo el Respeto Puedes Contactar si ese es el caso a esta Cuenta Oficial | https://www.instagram.com/gabiacosta06`, pp, 'https://github.com/gabicota16/Fast-Bot', '饾檪饾櫀饾櫓饾櫀饾樈饾櫎饾櫓-饾檲饾樋', null, null, [ 
