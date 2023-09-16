@@ -56,7 +56,7 @@ import os from 'os'
    let speed = neww - old 
   
  let info = `╭━━━━[ ${ft} ]━━━━━⬣ 
- ┃➥ *CREADORA | CREATOR* 
+ ┃➥ *CREADOR | CREATOR* 
  ┃ღ *Gabriel* 
  ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 
  ┃➥ *CONTACTO | CONTACT*  
@@ -100,7 +100,7 @@ import os from 'os'
  /*let info = ` 
  ╭━━━━[ ${ft} ]━━━━━⬣ 
  ┃ 
- ┃➥ *CREADORA | CREATOR* 
+ ┃➥ *CREADOR | CREATOR* 
  ┃ღ *Gabriel* 
  ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 
  ┃➥ *CONTACTO | CONTACT*  
