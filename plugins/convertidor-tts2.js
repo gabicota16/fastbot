@@ -93,4 +93,4 @@ import axios from 'axios';
      console.error('Error:', error); 
      return { resultado: '[❗] Error, no se obtuvo respuesta de la API.' }; 
    } 
-   }
+ }
