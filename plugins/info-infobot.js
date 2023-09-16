@@ -55,7 +55,7 @@ import os from 'os'
    let totaljadibot = [...new Set([...global.conns.filter((conn) => conn.user && conn.ws.socket && conn.ws.socket.readyState !== ws.CLOSED).map((conn) => conn)])] 
    let speed = neww - old 
   
- let info = `╭━━━━[ ${gt} ]━━━━━⬣ 
+ let info = `╭━━━━[ ${ft} ]━━━━━⬣ 
  ┃➥ *CREADORA | CREATOR* 
  ┃ღ *Gabriel* 
  ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 
@@ -98,7 +98,7 @@ import os from 'os'
  ╰━━━[ 𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙘𝙞ó𝙣 | 𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙤𝙣 ]━━⬣` 
  await conn.sendFile(m.chat, pp, 'fast.mp4', info, fkontak) 
  /*let info = ` 
- ╭━━━━[ ${gt} ]━━━━━⬣ 
+ ╭━━━━[ ${ft} ]━━━━━⬣ 
  ┃ 
  ┃➥ *CREADORA | CREATOR* 
  ┃ღ *Gabriel* 
