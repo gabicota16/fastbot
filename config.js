@@ -182,29 +182,29 @@ global.imagen13 = fs.readFileSync("./media/menus/img12.jpg");
 
 //━━━━━━━━━━━━━━ img ━━━━━━━━━
 
-global.img = 'https://tinyurl.com/2dgppss3.jpg';
-global.img2 = 'https://tinyurl.com/27jqx2e6.jpg';
+global.img = 'https://telegra.ph/file/3b1e60819f8aaa96a8d31.jpg';
+global.img2 = 'https://telegra.ph/file/7b6b9cfc72cb4d9a7af6d.jpg';
 
 global.img3 = 'https://tinyurl.com/23jcbhue.jpg'; //prem
 global.img4 = 'https://tinyurl.com/23z2xqqv.jpg'; //prem
 
-global.img5 = 'https://tinyurl.com/29nok9ba.jpeg';
-global.img6 = 'https://tinyurl.com/227vqnqn.jpeg';
-global.img7 = 'https://tinyurl.com/233rvq4c.jpeg';
-global.img8 = 'https://tinyurl.com/2annkxr3.jpeg';
-global.img9 = 'https://tinyurl.com/226lfwn7.jpeg';
+global.img5 = 'https://telegra.ph/file/8e5752a028f23c091bf9d.jpg';
+global.img6 = 'https://telegra.ph/file/9c2cc623fa23183050ca4.jpg';
+global.img7 = 'https://telegra.ph/file/4d2ee0512d0ff547dfb13.jpg';
+global.img8 = 'https://telegra.ph/file/eab6a9968f2a12da43a77.jpg';
+global.img9 = 'https://telegra.ph/file/9782e263e42ccbd4728ac.jpg';
 
-global.img10 = 'https://i.imgur.com/DvHoMc3.jpg';
-global.img11 = 'https://i.imgur.com/5Q1MqGD.jpg';
-global.img12 = 'https://i.imgur.com/vWnsjh8.jpg';
-global.img13 = 'https://i.imgur.com/pCfFOgw.jpeg';
-global.img14 = 'https://i.imgur.com/knBDWRA.jpeg';
+global.img10 = 'https://telegra.ph/file/80a27ea959b69c9364a20.jpg';
+global.img11 = 'https://telegra.ph/file/39191226f8df0d97de6a0.jpg';
+global.img12 = 'https://telegra.ph/file/c131a7f0a422c605c8282.jpg';
+global.img13 = 'https://telegra.ph/file/087ddd68593be99d3e16e.jpg';
+global.img14 = 'https://telegra.ph/file/1d1eef3ae9dbfbdcfdf10.jpg';
 global.img15 = 'https://i.imgur.com/QrkkKx7.jpeg';
 
 global.img16 = 'https://i.imgur.com/11MRjo4.jpeg'; //+18
 
-global.img17 = 'https://i.imgur.com/JpYfcH0.jpeg';
-global.img18 = 'https://i.imgur.com/9yLH4W4.jpeg';
+global.img17 = 'https://telegra.ph/file/617ddc48971450b93c667.jpg';
+global.img18 = 'https://telegra.ph/file/044e0044b75bc9e917ac4.jpg';
 
 global.logogit = 'https://tinyurl.com/2qvl9vgs';
 
