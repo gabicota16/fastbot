@@ -113,7 +113,7 @@ global.ig = "https://www.instagram.com/gabiacosta06";
 global.md = "https://github.com/gabicota16/Fast-Bot";
 global.fb = "https://www.facebook.com/groups/872989990425789/";
 
-global.nna = 'https://chat.whatsapp.com/DLXsU7DzkfHH487wYWKhWw' 
+global.nna = 'https://chat.whatsapp.com/JnCZocWq1eQJG0FxtDZSU4' 
 global.paypal = 'no hay paypal'
 global.asistencia = 'instagram.com/gabiacosta06' //Dudas? escríbeme...
 
