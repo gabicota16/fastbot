@@ -19,6 +19,6 @@ let media = './media/menus/img8.jpg'
  ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪 ☘️', '/menu'] 
  ], m,)}*/ 
   
- handler.command = /^cuentasoficiales|fastig|cuentasft|cuentaft|accounts|fastaccounts|account|igfast|cuentasdefast|cuentasdefastbot|cuentafastbot|cuentasfastbot$/i 
+ handler.command = /^cuentasoficiales|fastig|cuentasfb|cuentasfb|accounts|fastaccounts|account|igfast|cuentasdefast|cuentasdefastbot|cuentafastbot|cuentasfastbot$/i 
  handler.exp = 35 
  export default handler
