@@ -112,7 +112,6 @@ import fs from 'fs'
  *╭━〔 INFORMACIÓN DE FASTBOT 〕⬣* 
  ┃💫➺ _${usedPrefix}cuentasfastbot | cuentasft_ 
  ┃💫➺ _${usedPrefix}gruposft | grupos | groupft_ 
- ┃💫➺ _${usedPrefix}donar | donate_ 
  ┃💫➺ _${usedPrefix}listagrupos | grouplist_ 
  ┃💫➺ _${usedPrefix}estado | heyfast | status_ 
  ┃💫➺ _${usedPrefix}infofast | infobot_
@@ -158,8 +157,9 @@ import fs from 'fs'
   
  *╭━〔 JUEGOS - MULTI JUEGOS 〕━⬣* 
  ┃🎡➺ _${usedPrefix}mates | matemáticas | math_ 
- ┃🎡➺ _${usedPrefix}lanzar *cara* | *cruz* 
+ ┃🎡➺ _${usedPrefix}suerte *cara* | *cruz* 
  ┃🎡➺ _${usedPrefix}ppt *piedra : papel : tijera*_ 
+ ┃🎡➺ _${usedPrefix}suitpvp *@user*
  ┃🎡➺ _${usedPrefix}tictactoe | ttt *sala*_ 
  ┃🎡➺ _${usedPrefix}deltictactoe | delttt_ 
  ┃🎡➺ _${usedPrefix}topgays_ 
@@ -203,6 +203,8 @@ import fs from 'fs'
  ┃🪄➺ _${usedPrefix}simi | okgoogle *texto*_ 
  ┃🪄➺ _${usedPrefix}alexa | siri | cortana *texto*_ 
  ┃🪄➺ _${usedPrefix}simsimi | bixby *texto*_ 
+ ┃🪄➺ _${usedPrefix}chatgpt *texto*
+ ┃🪄➺ _${usedPrefix} dalle *texto*
  *╰━━━━━━━━━━━━⬣* 
   
  *╭━━━[ AJUSTES - CHATS ]━━━⬣* 
@@ -221,7 +223,6 @@ import fs from 'fs'
  ┃⚙️ _${usedPrefix}on *:* off *autosticker*_ 
  ┃⚙️ _${usedPrefix}on *:* off *reacciones | reaction*_ 
  ┃⚙️ _${usedPrefix}on *:* off *audios*_ 
- ┃⚙️ _${usedPrefix}on *:* off *modocaliente | modohorny*_ 
  ┃⚙️ _${usedPrefix}on *:* off *antitoxicos | antitoxic*_ 
  ┃⚙️ _${usedPrefix}on *:* off *antiver | antiviewonce*_ 
  ┃⚙️ _${usedPrefix}on *:* off *antieliminar | antidelete*_ 
@@ -346,13 +347,6 @@ import fs from 'fs'
  ┃📧➺ _${usedPrefix}novotar | devote_ 
  ┃📧➺ _${usedPrefix}vervotos | cekvoto_ 
  ┃📧➺ _${usedPrefix}delvoto | deletevoto_ 
- *╰━━━━━━━━━━━━⬣* 
-  
- *╭━━━[ CONTENIDO 🔞 ]━━⬣* 
- ┃ *Visita el Menú de Comandos* 
- ┃ *Para Adultos!!* 
- ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 
- ┃🔞➺ _${usedPrefix}hornymenu_ 
  *╰━━━━━━━━━━━━⬣* 
   
  *╭━[ CONVERTIDORES 🛰️ ]━⬣* 
