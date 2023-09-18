@@ -110,11 +110,12 @@ import fs from 'fs'
  ⊜ *Tokens ➟* ${joincount} 🪙 
  ${readMore} 
  *╭━〔 INFORMACIÓN DE FASTBOT 〕⬣* 
- ┃💫➺ _${usedPrefix}cuentasfastbot | cuentasft_ 
- ┃💫➺ _${usedPrefix}gruposft | grupos | groupft_ 
+ ┃💫➺ _${usedPrefix}cuentasfastbot | cuentasfb_ 
+ ┃💫➺ _${usedPrefix}gruposfb | grupos | groupfb_ 
  ┃💫➺ _${usedPrefix}listagrupos | grouplist_ 
  ┃💫➺ _${usedPrefix}estado | heyfast | status_ 
- ┃💫➺ _${usedPrefix}infofast | infobot_
+ ┃💫➺ _${usedPrefix}infofast | infobot_ 
+ ┃💫➺ _${usedPrefix}instalarbot | installbot_ 
  ┃💫➺ _${usedPrefix}creador | owner_ 
  ┃💫➺ _${usedPrefix}velocidad | ping_ 
  ┃💫➺ _Bot_  
@@ -159,7 +160,6 @@ import fs from 'fs'
  ┃🎡➺ _${usedPrefix}mates | matemáticas | math_ 
  ┃🎡➺ _${usedPrefix}suerte *cara* | *cruz* 
  ┃🎡➺ _${usedPrefix}ppt *piedra : papel : tijera*_ 
- ┃🎡➺ _${usedPrefix}suitpvp *@user*
  ┃🎡➺ _${usedPrefix}tictactoe | ttt *sala*_ 
  ┃🎡➺ _${usedPrefix}deltictactoe | delttt_ 
  ┃🎡➺ _${usedPrefix}topgays_ 
@@ -204,7 +204,7 @@ import fs from 'fs'
  ┃🪄➺ _${usedPrefix}alexa | siri | cortana *texto*_ 
  ┃🪄➺ _${usedPrefix}simsimi | bixby *texto*_ 
  ┃🪄➺ _${usedPrefix}chatgpt *texto*
- ┃🪄➺ _${usedPrefix} dalle *texto*
+ ┃🪄➺ _${usedPrefix}dalle *texto*
  *╰━━━━━━━━━━━━⬣* 
   
  *╭━━━[ AJUSTES - CHATS ]━━━⬣* 
@@ -453,7 +453,7 @@ import fs from 'fs'
  *╰━━━━━━━━━━━━⬣* 
   
  *╭━━[ BÚSQUEDAS 🔍 ]━━⬣* 
- ┃ *Busca lo que quieres con FastBot!!* 
+ ┃ *Busca lo que quieres con GataBot!!* 
  ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 
  ┃🔍➺ _${usedPrefix}animeinfo *texto*_ 
  ┃🔍➺ _${usedPrefix}mangainfo *texto*_ 
@@ -529,7 +529,7 @@ import fs from 'fs'
  ┃⚗️➺ _${usedPrefix}trabajar | work_ 
  *╰━━━━━━━━━━━━⬣* 
   
- *╭━━━[ TOP EN FASTBOT ]━━⬣* 
+ *╭━━━[ TOP EN GATABOT ]━━⬣* 
  ┃ *Averigua en que Top te encuentras!!* 
  ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 
  ┃🏆➺ _${usedPrefix}top | lb | leaderboard_ 
@@ -583,7 +583,7 @@ import fs from 'fs'
  ┃💎 _${usedPrefix}unete *enlace*_ 
  ┃💎➺ _${usedPrefix}dardiamantes *cantidad*_ 
  ┃💎➺ _${usedPrefix}darxp *cantidad*_ 
- ┃💎➺ _${usedPrefix}darfastcoins *cantidad*_ 
+ ┃💎➺ _${usedPrefix}dargatacoins *cantidad*_ 
  ┃💎➺ _${usedPrefix}addprem | userpremium *@tag* *cantidad*_ 
  ┃💎➺ _${usedPrefix}addprem2 | userpremium2 *@tag* *cantidad*_ 
  ┃💎➺ _${usedPrefix}addprem3 | userpremium3 *@tag* *cantidad*_ 
