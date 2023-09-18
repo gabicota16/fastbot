@@ -153,7 +153,7 @@ import os from 'os'
  } 
  handler.help = ['infobot'] 
  handler.tags = ['info', 'tools'] 
- handler.command = /^(infobot|informacionbot|infogata|informacióngata|informaciongata)$/i 
+ handler.command = /^(infobot|informacionbot|infofast|informaciónfast|informacionfast)$/i 
  export default handler 
   
  function clockString(ms) { 
