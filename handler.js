@@ -1454,7 +1454,7 @@ import {generateWAMessageFromContent} from '@whiskeysockets/baileys';
  "title": [wm, '😻 𝗦𝘂𝗽𝗲𝗿 ' + ft + ' 😻', '🌟 instagram.com/gabiacosta06'].getRandom(), 
  "containsAutoReply": true, 
  "mediaType": 1,  
- sourceUrl: [md, nna, nn2, yt, ig, paypal, fb].getRandom()}}}, { quoted: fkontak2 })  
+ sourceUrl: [md, nna, yt, ig, paypal, fb].getRandom()}}}, { quoted: fkontak2 })  
  //this.sendFile(id, apii.data, 'pp.jpg', text, null, false, { mentions: [user] }, { quoted: fkontak2 }) 
  }}} 
   
