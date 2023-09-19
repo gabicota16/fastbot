@@ -453,7 +453,7 @@ import fs from 'fs'
  *╰━━━━━━━━━━━━⬣* 
   
  *╭━━[ BÚSQUEDAS 🔍 ]━━⬣* 
- ┃ *Busca lo que quieres con GataBot!!* 
+ ┃ *Busca lo que quieres con FastBot!!* 
  ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 
  ┃🔍➺ _${usedPrefix}animeinfo *texto*_ 
  ┃🔍➺ _${usedPrefix}mangainfo *texto*_ 
@@ -529,7 +529,7 @@ import fs from 'fs'
  ┃⚗️➺ _${usedPrefix}trabajar | work_ 
  *╰━━━━━━━━━━━━⬣* 
   
- *╭━━━[ TOP EN GATABOT ]━━⬣* 
+ *╭━━━[ TOP EN FASTBOT ]━━⬣* 
  ┃ *Averigua en que Top te encuentras!!* 
  ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 
  ┃🏆➺ _${usedPrefix}top | lb | leaderboard_ 
@@ -583,7 +583,7 @@ import fs from 'fs'
  ┃💎 _${usedPrefix}unete *enlace*_ 
  ┃💎➺ _${usedPrefix}dardiamantes *cantidad*_ 
  ┃💎➺ _${usedPrefix}darxp *cantidad*_ 
- ┃💎➺ _${usedPrefix}dargatacoins *cantidad*_ 
+ ┃💎➺ _${usedPrefix}darfastcoins *cantidad*_ 
  ┃💎➺ _${usedPrefix}addprem | userpremium *@tag* *cantidad*_ 
  ┃💎➺ _${usedPrefix}addprem2 | userpremium2 *@tag* *cantidad*_ 
  ┃💎➺ _${usedPrefix}addprem3 | userpremium3 *@tag* *cantidad*_ 
