@@ -11,10 +11,10 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js";
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["5493491456806", 'Owner ', true],
-["3726188894", 'Bot', true]]
+["5493491456806", 'Owner', true],
+["3726188894", 'Bot oficial', true]]
 
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [];
 global.prems = ["5493491456806"];
@@ -23,15 +23,15 @@ global.Key360 = ["964f-0c75-7afc"];
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
-//Agrega el Idioma que quieres que tenga Fast-Bot
-//Add the language you want Fast-Bot to have
+//Agrega el Idioma que quieres que tenga FastBot
+//Add the language you want FastBot to have
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب             hi = Hindi Language
 
-global.lenguajeGB = es; //Idioma de Fast-Bot, Ejemplo: es | en | pt...
+global.lenguajeGB = es; //Idioma de FastBot, Ejemplo: es | en | pt...
 
-//━━━━━━━━━━━━━━━━━━━━ 
+//━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.openai_key = "sk-...OzYy2";
 /* Consigue tu ApiKey en este enlace: https://platform.openai.com/account/api-keys */
@@ -91,33 +91,37 @@ global.moment = moment;
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["5493491456806", 'Owner', 1]];
+["5493491456806", 'Owner 💻', 1], 
+["5492266466080", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
+["59894808483", '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+["5521989092076", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
+["5491173694367", 'Prueba', 1]];
 
 global.mail = ''; //agrega tú correo
 global.desc = ''; //agrega una descripción corta
-global.desc2 = ''; //agrega una descripción larga (Solo se aplicará si su whatsapp no tiene descripción)
+global.desc2 = ''; //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = ''; //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "𝗙𝗮𝘀𝘁";
-global.author = "𝗕𝗼𝘁";
+global.packname = "𝙁𝙖𝙨𝙩";
+global.author = "𝘽𝙤𝙩";
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = "1.4.9";
 global.vsJB = "2.0";
 
-global.ft = "𝗙𝗮𝘀𝘁-𝗕𝗼𝘁";
+global.ft = "𝙁𝙖𝙨𝙩-𝘽𝙤𝙩";
 global.yt = "";
-global.yt2 = "";
+global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s";
 global.ig = "https://www.instagram.com/gabiacosta06";
 global.md = "https://github.com/gabicota16/Fast-Bot";
-global.fb = "https://www.facebook.com/groups/872989990425789/";
+global.fb = "";
 
-global.nna = 'https://chat.whatsapp.com/JnCZocWq1eQJG0FxtDZSU4' 
-global.paypal = 'no hay paypal'
-global.asistencia = 'instagram.com/gabiacosta06' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' 
+global.paypal = ''
+global.asistencia = 'https://instagram.com/gabiacosta06' //Dudas? escríbeme...
 
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
@@ -144,13 +148,13 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg;
 
 //𝙀𝙅𝙀𝙈𝙋𝙇𝙊 | 𝙀𝙓𝘼𝙈𝙋𝙇𝙀
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "𝗙𝗮𝘀𝘁 - 𝗕𝗼𝘁";
-global.igfg = "𝗙𝗮𝘀𝘁 - 𝗕𝗼𝘁";
+global.wm = "𝙁𝙖𝙨𝙩-𝘽𝙤𝙩";
+global.igfg = "𝙁𝙖𝙨𝙩-𝘽𝙤𝙩";
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*";
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*";
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*";
@@ -158,7 +162,7 @@ global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*";
 global.nomorown = "593993684821";
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"];
 
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
 //⊱ ━━━━━.⋅ IMG ⋅.━━━━ ⊰
@@ -177,34 +181,34 @@ global.imagen11 = fs.readFileSync("./media/menus/img10.jpg");
 global.imagen12 = fs.readFileSync("./media/menus/img11.jpg");
 global.imagen13 = fs.readFileSync("./media/menus/img12.jpg");
 
-//━━━━━━━━━━━━━━━━━━━━ 
+//━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
 //━━━━━━━━━━━━━━ img ━━━━━━━━━
 
-global.img = 'https://telegra.ph/file/3b1e60819f8aaa96a8d31.jpg';
-global.img2 = 'https://telegra.ph/file/7b6b9cfc72cb4d9a7af6d.jpg';
+global.img = 'https://tinyurl.com/2dgppss3.jpg';
+global.img2 = 'https://tinyurl.com/27jqx2e6.jpg';
 
 global.img3 = 'https://tinyurl.com/23jcbhue.jpg'; //prem
 global.img4 = 'https://tinyurl.com/23z2xqqv.jpg'; //prem
 
-global.img5 = 'https://telegra.ph/file/8e5752a028f23c091bf9d.jpg';
-global.img6 = 'https://telegra.ph/file/9c2cc623fa23183050ca4.jpg';
-global.img7 = 'https://telegra.ph/file/4d2ee0512d0ff547dfb13.jpg';
-global.img8 = 'https://telegra.ph/file/eab6a9968f2a12da43a77.jpg';
-global.img9 = 'https://telegra.ph/file/9782e263e42ccbd4728ac.jpg';
+global.img5 = 'https://tinyurl.com/29nok9ba.jpeg';
+global.img6 = 'https://tinyurl.com/227vqnqn.jpeg';
+global.img7 = 'https://tinyurl.com/233rvq4c.jpeg';
+global.img8 = 'https://tinyurl.com/2annkxr3.jpeg';
+global.img9 = 'https://tinyurl.com/226lfwn7.jpeg';
 
-global.img10 = 'https://telegra.ph/file/80a27ea959b69c9364a20.jpg';
-global.img11 = 'https://telegra.ph/file/39191226f8df0d97de6a0.jpg';
-global.img12 = 'https://telegra.ph/file/c131a7f0a422c605c8282.jpg';
-global.img13 = 'https://telegra.ph/file/087ddd68593be99d3e16e.jpg';
-global.img14 = 'https://telegra.ph/file/1d1eef3ae9dbfbdcfdf10.jpg';
+global.img10 = 'https://i.imgur.com/DvHoMc3.jpg';
+global.img11 = 'https://i.imgur.com/5Q1MqGD.jpg';
+global.img12 = 'https://i.imgur.com/vWnsjh8.jpg';
+global.img13 = 'https://i.imgur.com/pCfFOgw.jpeg';
+global.img14 = 'https://i.imgur.com/knBDWRA.jpeg';
 global.img15 = 'https://i.imgur.com/QrkkKx7.jpeg';
 
 global.img16 = 'https://i.imgur.com/11MRjo4.jpeg'; //+18
 
-global.img17 = 'https://telegra.ph/file/617ddc48971450b93c667.jpg';
-global.img18 = 'https://telegra.ph/file/044e0044b75bc9e917ac4.jpg';
+global.img17 = 'https://i.imgur.com/JpYfcH0.jpeg';
+global.img18 = 'https://i.imgur.com/9yLH4W4.jpeg';
 
 global.logogit = 'https://tinyurl.com/2qvl9vgs';
 
@@ -214,7 +218,7 @@ global.fastMenu = [img, img2, img6, img7, img8, img9, img13, img14, img15, img17
 global.fastVidMenu = ['./media/menus/Menuvid1.mp4', './media/menus/Menuvid2.mp4', './media/menus/Menuvid3.mp4'];
 global.fastImg = [imagen1, imagen2, imagen3, imagen4, imagen5, imagen6, imagen7, imagen8, imagen9, imagen10, imagen11, imagen12, imagen13];
 
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
 //⊱ ━━━━━.⋅ RPG ⋅.━━━━ ⊰
@@ -260,7 +264,7 @@ global.fgif = {
                               }
                              };
 
-//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 
+//━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
 global.multiplier = 60; // Cuanto más alto, más difícil subir de nivel | The higher, The harder levelup 
@@ -375,7 +379,7 @@ global.rpgg = { //Solo emojis
       trash: '🗑', crystal: '🔮', intelligence: '🧠', string: '🕸️', keygold: '🔑',
       keyiron: '🗝️', emas: '🪅', fishingrod: '🎣', gems: '🍀', magicwand: '⚕️',
       mana: '🪄', agility: '🤸‍♂️', darkcrystal: '♠️', iron: '⛓️', rock: '🪨',
-      potion: '🥤', superior: '💼', robo: '🚔', upgrader: '🧰', wood: '🪵', 
+      potion: '🥤', superior: '💼', robo: '🚔', upgrader: '🧰', wood: '🪵',
       
       strength: '🦹‍ ♀️', arc: '🏹', armor: '🥼', bow: '🏹', pickaxe: '⛏️', sword: '⚔️',
       
@@ -386,7 +390,7 @@ global.rpgg = { //Solo emojis
       ayam: '🐓', babi: '🐖', Jabali: '🐗', bull: '🐃', buaya: '🐊', cat: '🐈',      
       centaur: '🐐', chicken: '🐓', cow: '🐄', dog: '🐕', dragon: '🐉', elephant: '🐘',
       fox: '🦊', giraffe: '🦒', griffin: '🦅', //Mascota : Griffin',
-      horse: '🐎', kambing: '🐐', kerbau: '🐃', lion: '🦁', money: '♦️', monyet: '🐒', panda: '🐼',
+      horse: '🐎', kambing: '🐐', kerbau: '🐃', lion: '🦁', money: '🐱', monyet: '🐒', panda: '🐼',
       snake: '🐍', phonix: '🕊️', rhinoceros: '🦏',
       wolf: '🐺', tiger: '🐅', cumi: '🦑', udang: '🦐', ikan: '🐟',
       
@@ -444,8 +448,8 @@ global.rpgshopp = { //Tienda
     string = string.toLowerCase();
     let emotttt = {
       exp: '⚡', limit: '💎', diamond: '💎+', joincount: '🪙',
-      emerald: '💚', berlian: '📿', kyubi: '🌀', gold: '👑',
-      money: '♦️', tiketcoin: '🎫', stamina: '✨',
+      emerald: '💚', berlian: '♦️', kyubi: '🌀', gold: '👑',
+      money: '🐱', tiketcoin: '🎫', stamina: '✨',
             
       potion: '🥤', aqua: '💧', trash: '🗑', wood: '🪵',
       rock: '🪨', batu: '🥌', string: '🕸️', iron: '⛓️',
