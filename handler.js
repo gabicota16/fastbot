@@ -937,7 +937,7 @@ import {generateWAMessageFromContent} from '@whiskeysockets/baileys';
   
              if (chat) { 
                  if (!('isBanned' in chat)) chat.isBanned = false                     
-                 if (!('welcome' in chat)) chat.welcome = true                     
+                 if (!('welcome' in chat)) chat.welcome = false                     
                  if (!('detect' in chat)) chat.detect = true                     
                  if (!('sWelcome' in chat)) chat.sWelcome = ''                     
                  if (!('sBye' in chat)) chat.sBye = ''                     
@@ -948,9 +948,9 @@ import {generateWAMessageFromContent} from '@whiskeysockets/baileys';
                  if (!('modohorny' in chat)) chat.modohorny = false                     
                  if (!('stickers' in chat)) chat.stickers = false                    
                  if (!('autosticker' in chat)) chat.autosticker = false                       
-                 if (!('audios' in chat)) chat.audios = true                      
+                 if (!('audios' in chat)) chat.audios = false                      
                  if (!('antiver' in chat)) chat.antiver = false                   
-                 if (!('antiLink' in chat)) chat.antiLink = false                     
+                 if (!('antiLink' in chat)) chat.antiLink = true                     
                  if (!('antiLink2' in chat)) chat.antiLink2 = false 
                  if (!('antiTiktok' in chat)) chat.antiTiktok = false 
                  if (!('antiYoutube' in chat)) chat.antiYoutube = false 
@@ -958,7 +958,7 @@ import {generateWAMessageFromContent} from '@whiskeysockets/baileys';
                  if (!('antiFacebook' in chat)) chat.antiFacebook = false 
                  if (!('antiInstagram' in chat)) chat.antiInstagram = false 
                  if (!('antiTwitter' in chat)) chat.antiInstagram = false 
-                 if (!('antifake' in chat)) chat.antifake = false 
+                 if (!('antifake' in chat)) chat.antifake = true 
                  if (!('reaction' in chat)) chat.reaction = true     
                  if (!('viewonce' in chat)) chat.viewonce = true          
                  if (!('modoadmin' in chat)) chat.modoadmin = false            
@@ -971,7 +971,7 @@ import {generateWAMessageFromContent} from '@whiskeysockets/baileys';
              } else 
                  global.db.data.chats[m.chat] = { 
                      isBanned: false, 
-                     welcome: true, 
+                     welcome: false, 
                      detect: true, 
                      sWelcome: '', 
                      sBye: '', 
@@ -983,15 +983,15 @@ import {generateWAMessageFromContent} from '@whiskeysockets/baileys';
                      autosticker: false, 
                      audios: true, 
                      antiver: false, 
-                     antiLink: false, 
-                     antiLink2: false, 
+                     antiLink: true, 
+                     antiLink2: true, 
                      antiTiktok: false, 
                      antiYoutube: false, 
                      antiTelegram: false, 
                      antiFacebook: false, 
                      antiInstagram: false, 
                      antiTwitter: false, 
-                     antifake: false, 
+                     antifake: true, 
                      reaction: true, 
                      viewonce: true, 
                      modoadmin: false, 
